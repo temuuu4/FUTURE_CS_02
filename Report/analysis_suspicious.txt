@@ -1,0 +1,28 @@
+EMAIL ANALYSIS – SUSPICIOUS EMAIL
+
+Email Type: Suspicious
+Risk Level: Medium
+
+Subject:
+Payroll Update Required
+
+Suspicious Indicators Identified:
+
+1. Unknown Domain
+The email contains a non-official payroll website link:
+http://employee-payroll-check[.]com
+
+2. Urgent Request
+The message pressures employees to act immediately regarding salary processing.
+
+3. Lack of Verification
+The sender identity is unclear and cannot be verified.
+
+4. Potential Credential Harvesting
+The provided link may redirect users to a fake login page.
+
+5. Social Engineering Indicators
+The email attempts to gain trust by pretending to be from HR.
+
+Conclusion:
+This email is classified as suspicious because it contains several warning signs commonly associated with phishing attempts.
