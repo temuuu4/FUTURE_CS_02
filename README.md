@@ -1,27 +1,27 @@
 # Phishing Email Detection & Awareness System
 
-## 📌 Objective
+## Objective
 This project focuses on analyzing phishing and suspicious email samples to identify phishing indicators and improve cybersecurity awareness.
 
-## 📧 Email Samples Analyzed
+## Email Samples Analyzed
 - Phishing Email
 - Suspicious Email
 - Safe / Legitimate Email
 
-## 🔍 Analysis Performed
+## Analysis Performed
 - Sender and link inspection
 - Identification of phishing indicators
 - Risk classification
 - Social engineering analysis
 - Awareness & prevention recommendations
 
-## 🛠️ Tools Used
+## Tools Used
 - Browser-based email inspection
 - Header analysis tools
 - Text editors / documentation tools
 - Canva (Report Design)
 
-## 📊 Risk Classification
+## Risk Classification
 | Email Type | Risk Level |
 |---|---|
 | Phishing Email | High |
@@ -33,5 +33,5 @@ This project focuses on analyzing phishing and suspicious email samples to ident
 - `/Screenshots` → Email evidence screenshots
 - `README.md` → Project overview
 
-## ⚖️ Ethical Note
+## Ethical Note
 This project was conducted for cybersecurity education and awareness purposes only.
